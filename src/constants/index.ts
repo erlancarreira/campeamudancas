@@ -1,0 +1,3 @@
+export const URL_WHATSAPP_ORCAMENTO="https://api.whatsapp.com/send?phone=+558530639123&text=Para%20agendamento%3A%E2%A4%B5%EF%B8%8F%0A%E2%9C%8D%EF%B8%8F%20Ser%C3%A1%20necess%C3%A1rio%3A%0A%E2%9C%85Nome%20completo%3A%0A%E2%9C%85Endere%C3%A7o%20de%20coleta%3A%0A%E2%9C%85Endere%C3%A7o%20de%20destino%3A%0A%E2%9C%85CPF%3A%0A%E2%9C%85Data%3A%0A%E2%9C%85Hora%3A%0AA%20Equipe%20chegar%C3%A1%20em%20sua%20casa%20na%20data%20agendada.%20Desde%20j%C3%A1%20agradecemos%20a%20prefer%C3%AAncia%F0%9F%A4%9D"
+export const URL_FACEBOOK="https://www.facebook.com/campeamudanca"
+export const URL_INSTAGRAM="https://www.instagram.com/campeamudancas"
